@@ -14,10 +14,10 @@ course = 'Python is a programming language'
 # STRING METHODS
 
 
-# print(course.upper()) # Converting upper case
-# print(course.lower()) # converting lower case
-# print(course.find('o')) # findig index of character in str
-# print(course.replace('programming', 'easy enough programming')) #Replacing words
-# print('Python' in course) #Finding str in str
+print(course.upper()) # Converting upper case
+print(course.lower()) # converting lower case
+print(course.find('o')) # findig index of character in str
+print(course.replace('programming', 'easy enough programming')) #Replacing words
+print('Python' in course) #Finding str in str
 
 

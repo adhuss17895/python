@@ -1,0 +1,15 @@
+HINTS AND TIPS
+
+
+Password change in linux :  passwd
+
+Upgrade Google Chrome: sudo apt-get --only-upgrade install google-chrome-stable
+
+Cloning Git Repository : git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+Screenshot in Linux : Use the shortcut keys PrintScreen to capture the whole desktop and Alt+PrintScreen to capture the current window (these also work under Windows).
+
+Git push/pull token statement: git push https://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@github.com/adhuss17895/python.git
+
+Pycharm snap install: sudo snap install pycharm-professional --classic
+
